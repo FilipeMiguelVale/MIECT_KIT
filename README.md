@@ -2,4 +2,6 @@
 
 ## How to use:
 
-1. [Install arduino ide](https://www.arduino.cc/en/main/software "download")
+1. [Install Arduino IDE](https://www.arduino.cc/en/main/software "download")
+2. Download the code files
+3. 
