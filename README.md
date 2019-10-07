@@ -10,6 +10,7 @@
 
 ## Install ESP8266 Add-on in Arduino IDE
 1. Find the "preferences menu" on Arduino IDE
+
 ![alt text](https://github.com/FilipeMiguelVale/MIECT_KIT/blob/master/Images/Prints/preferences.jpg"Find the preferences")
 
 2.
