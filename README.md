@@ -30,3 +30,10 @@ It should be installed after a few seconds
 
 1. Go to **Tools > Board** and make sure that the **NodeMCU 1.0 (ESP-12E Module)** is selected :
 ![find board](https://github.com/FilipeMiguelVale/MIECT_KIT/blob/master/Images/Prints/board3.jpg)
+
+2. Select the **COM PORT** that yout ESP is plugged in
+3. Make sure that your **Upload Speed** is **115200**
+4. Make sure that your **CPU Frequeny** is **160Mhz**
+
+## Support
+mail: NEECT@aauav.pt
