@@ -43,6 +43,16 @@ It should be installed after a few seconds
 3. Make sure that your **Upload Speed** is **115200**
 4. Make sure that your **CPU Frequeny** is **160Mhz**
 
+## Have Fun!
+After uploading your code to the NodeMCU you should see the **green and the red led's ON**
+Connect your device to the "**IOTKIT**"  
+![find board](https://github.com/FilipeMiguelVale/MIECT_KIT/blob/master/Images/Prints/Ethernet1.jpg)
+
+Go to your browser check this URL: **192.168.1.1** 
+
+![find board](https://github.com/FilipeMiguelVale/MIECT_KIT/blob/master/Images/Prints/Ethernet2.jpg)
+turn **ON** and **OFF** the led's and have fun!
+
 ## Support
 mail: NEECT@aauav.pt
 ## Important Links
