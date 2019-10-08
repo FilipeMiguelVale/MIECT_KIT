@@ -2,11 +2,19 @@
 
 ## How to use:
 
+1. Assemble the kit
 1. [Install Arduino IDE](https://www.arduino.cc/en/main/software "download")
 2. Download the code files
 3. Install ESP8266 Add-on in Arduino IDE:
 4. Uploade your code
 5. Have fun!
+
+## Assemble the kit
+
+Pick up all the components and assemble them as shown below:  
+![Insert link](https://github.com/FilipeMiguelVale/MIECT_KIT/blob/master/Images/Board%20Final1.jpg)
+
+After this, plug the NodeMCU to your USB port and check if a blue led blink's!
 
 ## Install ESP8266 Add-on in Arduino IDE
 1. In your Arduino IDE, go to **File> Preferences**:
@@ -37,3 +45,4 @@ It should be installed after a few seconds
 
 ## Support
 mail: NEECT@aauav.pt
+## Important Links
